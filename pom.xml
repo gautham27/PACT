@@ -5,7 +5,7 @@
 
 	<groupId>com.techm.pact</groupId>
 	<artifactId>PACT_POC</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>PACT_POC</name>
